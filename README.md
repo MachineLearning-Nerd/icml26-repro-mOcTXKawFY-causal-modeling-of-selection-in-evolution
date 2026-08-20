@@ -1,5 +1,30 @@
 # icml26-repro-mOcTXKawFY-causal-modeling-of-selection-in-evolution
 
+## Collection classification and audit boundary
+
+This repository is a **legacy/source workspace** for *Causal Modeling of Selection in Evolution*
+(arXiv `2606.05689`, OpenReview `mOcTXKawFY`). It is preserved
+separately from the standardized canonical record at
+[`icml26-causal-evolutionary-selection`](https://github.com/MachineLearning-Nerd/icml26-causal-evolutionary-selection).
+
+The claim results and scores recorded below are historical results of this
+workspace. They are not new paper-level verifications performed while
+organizing the collection. The collection audit did not run the scientific
+implementation; the canonical record documents its own scoped status and
+limitations.
+
+### How the historical claim evidence is produced
+
+The claim table and experiment log below are the authoritative mapping from
+each paper claim to its producer, command, control, and evidence artifact. In
+this workspace, the theorem/graph constructors and claim-specific validation scripts produce the six claim tables, counterexample checks, and committed report artifacts summarized below.
+
+The former `orx/*` branches are historical workstreams, not additional final
+publication claims. Their purposes and tips are preserved in
+[`BRANCH_AUDIT.md`](BRANCH_AUDIT.md). Citation and author acknowledgment
+details are in [`CITATION.cff`](CITATION.cff) and
+[`AUTHOR_THANK_YOU.md`](AUTHOR_THANK_YOU.md).
+
 ICML 2026 reproduction of **"Causal Modeling of Selection in Evolution"** (Dai et al., [arXiv:2606.05689](https://arxiv.org/abs/2606.05689), [OpenReview:mOcTXKawFY](https://openreview.net/forum?id=mOcTXKawFY)).
 
 ## Reproduction Summary

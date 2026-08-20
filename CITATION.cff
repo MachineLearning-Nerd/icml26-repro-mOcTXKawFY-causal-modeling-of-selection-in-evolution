@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+title: "Legacy/source workspace for Causal Modeling of Selection in Evolution"
+type: software
+authors:
+  - family-names: Dai
+    given-names: Haoyue
+  - family-names: Tang
+    given-names: Zeyu
+  - family-names: Spirtes
+    given-names: Peter
+  - family-names: Zhang
+    given-names: Kun
+repository-code: "https://github.com/MachineLearning-Nerd/icml26-legacy-causal-evolutionary-selection"
+url: "https://github.com/MachineLearning-Nerd/icml26-legacy-causal-evolutionary-selection"
+abstract: "Legacy/source workspace preserving the implementation, evidence artifacts, and branch history for the associated ICML 2026 reproduction record."
+keywords:
+  - reproduction
+  - ICML 2026
+references:
+  - type: article
+    title: "Causal Modeling of Selection in Evolution"
+    authors:
+      - family-names: Dai
+        given-names: Haoyue
+      - family-names: Tang
+        given-names: Zeyu
+      - family-names: Spirtes
+        given-names: Peter
+      - family-names: Zhang
+        given-names: Kun
+    identifiers:
+      - type: arxiv
+        value: "2606.05689"
+    url: "https://arxiv.org/abs/2606.05689"
+
