@@ -25,6 +25,10 @@ publication claims. Their purposes and tips are preserved in
 details are in [`CITATION.cff`](CITATION.cff) and
 [`AUTHOR_THANK_YOU.md`](AUTHOR_THANK_YOU.md).
 
+## Thank you
+
+Thank you to the paper authors for making this research available for study. The full acknowledgment is in [`AUTHOR_THANK_YOU.md`](AUTHOR_THANK_YOU.md).
+
 ICML 2026 reproduction of **"Causal Modeling of Selection in Evolution"** (Dai et al., [arXiv:2606.05689](https://arxiv.org/abs/2606.05689), [OpenReview:mOcTXKawFY](https://openreview.net/forum?id=mOcTXKawFY)).
 
 ## Reproduction Summary
